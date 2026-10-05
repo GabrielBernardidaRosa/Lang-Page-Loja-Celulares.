@@ -1,2 +1,16 @@
-# Lang-Page-Loja-Celulares.
-A landing page de celulares apresenta uma estrutura direta e visual: o topo destaca os principais lançamentos e ofertas do momento. Abaixo, há uma seção de filtros avançados por preço e marca, seguida por uma tabela comparativa de fichas técnicas. O rodapé exibe avaliações de clientes e um botão de ação focado na conversão.
+# 🌿 GreenNest — Landing Page
+
+Landing page desenvolvida como exemplo didático para a disciplina de
+**Desenvolvimento de Sistemas** (Web Design) — IFSC Câmpus Chapecó.
+
+O projeto demonstra a **anatomia de uma landing page** construída apenas
+com HTML5 e CSS3, sem frameworks e sem JavaScript.
+
+## 🚀 Demonstração
+
+O site está publicado no GitHub Pages:
+**[https://laraoberderfer.github.io/landingpage_greennest/](https://laraoberderfer.github.io/landingpage_greennest/)**
+
+## 📁 Estrutura do projeto
+-- index.html
+-- estilo.css
